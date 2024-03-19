@@ -1,0 +1,83 @@
+body{
+    background-color: blue;
+
+}
+
+#sectionUm{
+    background-color: yellow;
+    width: 1700px;
+    margin: 50px  50px;
+    height: 200px;
+    margin-right: 50px;
+    display: flex;
+}
+
+.sectionDois{
+    display: flex;
+}
+
+.divUmUm{
+    display: flex;
+}
+
+.divUmUmUm{
+    width: 500px;
+    background-color: purple;
+    margin: 10px  50px;
+    height: 200px;
+}
+
+.divUmUmDois{
+    width: 500px;
+    background-color: purple;
+    margin: 10px  50px;
+    height: 200px;
+}
+
+.divUmDois{
+    background-color: green;
+    width: 1100px;
+    height: 200px;
+    margin: 50px;
+
+}
+
+.divDoisUm{
+    height: 450px;
+    width: 500px;
+    margin: 10px 50px;
+    background-color: red;
+}
+
+
+.Um{
+    display: flex;
+
+}
+
+.Dois{
+    width: 500px;
+    background-color: yellow;
+    margin: 10px  50px;
+    height: 200px;
+}
+
+.Tres{
+    background-color: green;
+    width: 1100px;
+    height: 200px;
+    margin: 10px  50px;
+}
+
+.Quatro{
+    background-color: yellow;
+    width: 500px;
+    height: ;
+
+}
+
+
+
+
+
+
